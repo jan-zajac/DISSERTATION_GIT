@@ -26,5 +26,5 @@ The datasets used in this project were user-generated through the integration of
 
 #### Notes
 
-Carried out in IDE (PyCharm CE)
-OS: macOS Mojave Version: 10.14.4
+* Carried out in IDE (PyCharm CE)
+* OS: macOS Mojave Version: 10.14.4
