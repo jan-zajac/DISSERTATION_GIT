@@ -18,11 +18,11 @@ The datasets used in this project were user-generated through the integration of
 
 #### Libraries Used
 
-*[SciPy](https://www.scipy.org/)
-*[Keras](https://keras.io/)
-*[Talos](https://github.com/autonomio/talos)
-*[Matplolib](https://matplotlib.org/)
-*[Seaborn](https://seaborn.pydata.org/)
+* [SciPy](https://www.scipy.org/)
+* [Keras](https://keras.io/)
+* [Talos](https://github.com/autonomio/talos)
+* [Matplolib](https://matplotlib.org/)
+* [Seaborn](https://seaborn.pydata.org/)
 
 #### Notes
 
