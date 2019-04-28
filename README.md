@@ -16,9 +16,8 @@ Further work in this field has the potential of being used in a medical applicat
 
 The datasets used in this project were user-generated through the integration of ODEs (ordinary differential equations). The project details 3 different systems.
 
-p align="center"
-  [linearequation](https://latex.codecogs.com/gif.latex?%5Cfrac%7Bdy%7D%7Bdt%7D%3Dm)<-
-p
+                                    [linearequation](https://latex.codecogs.com/gif.latex?%5Cfrac%7Bdy%7D%7Bdt%7D%3Dm)
+
 #### Libraries Used
 
 * [SciPy](https://www.scipy.org/)
