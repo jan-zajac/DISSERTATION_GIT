@@ -2,7 +2,7 @@
 
 🎓This repository holds my final year and dissertation project during my time at the University of Leeds titled 'A Mathematical Model for Quorum Sensing in Pseudomonas aeruginosa Using Machine Learning' .
 
-# Abstract 
+## Abstract 
 
 The harmful pathogen Pseudomonas aeruginosa has been researched for years, yet even with its increasing understanding, it continues to burden healthcare services and infect vulnerable patients. The bacteria use their population to regulate their genetics, controlling a variety of factors which aid its survival and ability to infect. The ability is known as quorum sensing and it allows Pseudomonas aeruginosa to remain undetected by the host’s immune defences until the size of their colony is large enough to overpower the immune system and result in infection.  
 
