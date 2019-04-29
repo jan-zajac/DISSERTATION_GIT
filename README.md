@@ -19,7 +19,7 @@ The datasets used in this project were user-generated through the integration of
 <p align="center">
   <b>Some Links:</b><br>
   <a href = ![linearequation](https://latex.codecogs.com/gif.latex?%5Cfrac%7Bdy%7D%7Bdt%7D%3Dm) </a>
-  img src = (https://latex.codecogs.com/gif.latex?%5Cfrac%7Bdy%7D%7Bdt%7D%3Dm)
+  ![linearequation](https://latex.codecogs.com/gif.latex?%5Cfrac%7Bdy%7D%7Bdt%7D%3Dm)
 </p>
 
 ![linearequation](https://latex.codecogs.com/gif.latex?%5Cfrac%7Bdy%7D%7Bdt%7D%3Dm)
