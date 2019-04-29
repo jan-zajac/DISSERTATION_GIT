@@ -20,7 +20,7 @@ The datasets used in this project were user-generated through the integration of
 
 <p = ![linearequation](https://latex.codecogs.com/gif.latex?%5Cfrac%7Bdy%7D%7Bdt%7D%3Dm)>
 
-p
+</p>
 
 #### Libraries Used
 
