@@ -18,6 +18,8 @@ The datasets used in this project were user-generated through the integration of
 
 <p align="center"> ![linearequation](https://latex.codecogs.com/gif.latex?%5Cfrac%7Bdy%7D%7Bdt%7D%3Dm) </p>
 
+Let $\text{S}_1(N) = \sum_{p=1}^N \text{E}(p)$
+
 #### Libraries Used
 
 * [SciPy](https://www.scipy.org/)
