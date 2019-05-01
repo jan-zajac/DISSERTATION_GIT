@@ -34,17 +34,11 @@ application of machine learning in diagnosis and treatment planning of infected 
 
 The datasets used in this project were user-generated through the integration of ODEs (ordinary differential equations). The project details 3 different systems:
 
-* The first one is a generic linear equation:
-  * ![linearequation](https://latex.codecogs.com/gif.latex?%5Cfrac%7Bdy%7D%7Bdt%7D%3Dm)
+1. A standard linear equation
+2. A conventional engineering mass/spring/damper system
+3. The mathematical model developed by Dockery (2001)
 
-<p align="center">
-  <b>Some Links:</b><br>
-  <a href = ![linearequation](https://latex.codecogs.com/gif.latex?%5Cfrac%7Bdy%7D%7Bdt%7D%3Dm) </a>
-  ![linearequation](https://latex.codecogs.com/gif.latex?%5Cfrac%7Bdy%7D%7Bdt%7D%3Dm)
-</p>
-
-
-
+The corresponding targets for the supervised learning problem for the neural network are the ODE constants present in the different systems.
 
 #### Libraries Used:
 
