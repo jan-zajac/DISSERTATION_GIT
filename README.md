@@ -1,4 +1,4 @@
-![]/(uniofleeds.png)
+![](/uniofleeds.png)
 
 # A Mathematical Model for Quorum Sensing in Pseudomonas aeruginosa Using Machine Learning
 
