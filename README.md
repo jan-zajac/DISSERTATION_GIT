@@ -19,10 +19,12 @@ in a multi-output regression problem to estimate the ordinary differential equat
 coefficients of the mathematical model.
 The project consisted of building technical foundation with the utilized software through
 simpler examples. Artificial neural networks were successfully developed for estimating
-the gradient of a generic linear equation, and the natural frequency (�') and damping
-ratio (�) of a mass/spring/damper system – with the respective R2 values being 0.995
+the gradient of a generic linear equation, and the natural frequency and damping
+ratio of a mass/spring/damper system – with the respective R2 values being 0.995
 and 0.979. The insight gained was used to enhance the Pseudomonas aeruginosa
-mathematical model. The result was an artificial neural network capable of predicting
+mathematical model.
+
+The result was an artificial neural network capable of predicting
 4 out of 11 coefficients ranging ± 40% from their original values stated in literature, with
 a mean concentration error of 0.0637 units. The predictive capabilities of the enhanced
 model give it life-saving potential in clinical applications through the possible
