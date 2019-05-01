@@ -4,7 +4,7 @@
 
 ## Abstract
 
-The harmful pathogen Pseudomonas aeruginosa has been researched for years, yet
+*The harmful pathogen Pseudomonas aeruginosa has been researched for years, yet
 even with the increased understanding of its behaviour, it continues to burden
 healthcare services and infect vulnerable patients. A characteristic behaviour which
 contributes to the pathogen’s virulence is known as quorum sensing. It allows the
@@ -16,9 +16,9 @@ coefficients in a mathematical model that was proved to be successful in describ
 the quorum sensing behaviour. This project explored the use of machine learning
 methods in the forecasting of this behaviour. Specifically, neural networks were used
 in a multi-output regression problem to estimate the ordinary differential equation
-coefficients of the mathematical model.
+coefficients of the mathematical model.*
 
-The project consisted of building technical foundation with the utilized software through
+*The project consisted of building technical foundation with the utilized software through
 simpler examples. Artificial neural networks were successfully developed for estimating
 the gradient of a generic linear equation, and the natural frequency and damping
 ratio of a mass/spring/damper system – with the respective R2 values being 0.995
@@ -28,7 +28,7 @@ The result was an artificial neural network capable of predicting
 4 out of 11 coefficients ranging ± 40% from their original values stated in literature, with
 a mean concentration error of 0.0637 units. The predictive capabilities of the enhanced
 model give it life-saving potential in clinical applications through the possible
-application of machine learning in diagnosis and treatment planning of infected patients.
+application of machine learning in diagnosis and treatment planning of infected patients.*
 
 #### Dataset
 
