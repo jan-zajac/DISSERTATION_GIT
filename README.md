@@ -66,7 +66,7 @@ The corresponding targets for the supervised learning problem for the neural net
 
 #### Citation
 
-Zajac, J.Z., (2018). A Mathematical Model for Quorum Sensing in Pseudomonas aeruginosa Using Machine Learning
+Zajac, J.Z., (2019). A Mathematical Model for Quorum Sensing in Pseudomonas aeruginosa Using Machine Learning
 
 #### Notes
 
