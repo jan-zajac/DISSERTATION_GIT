@@ -1,6 +1,10 @@
+![]/(uniofleeds.png)
+
 # A Mathematical Model for Quorum Sensing in Pseudomonas aeruginosa Using Machine Learning
 
 🎓This repository holds my final year and dissertation project during my time at the University of Leeds titled 'A Mathematical Model for Quorum Sensing in Pseudomonas aeruginosa Using Machine Learning' .
+
+[PDF](https://github.com/jan-zajac/DISSERTATION_GIT/blob/master/DISSERATION.pdf)
 
 ## Abstract
 
