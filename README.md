@@ -36,7 +36,7 @@ application of machine learning in diagnosis and treatment planning of infected 
 
 #### Dataset
 
-The datasets used in this project were user-generated through the integration of ODEs (ordinary differential equations). The project details 3 different systems:
+The datasets used in this project were user-generated through the integration of ODEs (ordinary differential equations) (examples are available in downloadable directories). The project details 3 different systems:
 
 1. A standard linear equation
 2. A conventional engineering mass/spring/damper system
@@ -44,7 +44,11 @@ The datasets used in this project were user-generated through the integration of
 
 The corresponding targets for the supervised learning problem for the neural network are the ODE constants present in the different systems.
 
-#### Libraries Used:
+#### Requirements
+
+* [Python v 3.6.1](https://www.python.org/)
+
+#### Libraries Used
 
 * [SciPy](https://www.scipy.org/)
 * [Keras](https://keras.io/)
@@ -52,7 +56,24 @@ The corresponding targets for the supervised learning problem for the neural net
 * [Matplotlib](https://matplotlib.org/)
 * [Seaborn](https://seaborn.pydata.org/)
 
+#### Usage
+
+1. Download desired directory
+2. Run DATA_GENERATION.py to generate two text files (input data and corresponding labels)
+3. Run K-FOLD.py to carry out K-FOLD cross validation
+4. Run NN_BUILD.py for prodcution of Keras neural network
+5. Run RUN_MODEL.py to run model and evaluate
+
+#### Citation
+
+Zajac, J.Z., (2018). A Mathematical Model for Quorum Sensing in Pseudomonas aeruginosa Using Machine Learning
+
 #### Notes
 
 * Carried out in IDE (PyCharm CE)
 * OS: macOS Mojave Version: 10.14.4
+
+#### References
+
+* Dockery, J. (2001). A Mathematical Model for Quorum Sensing in Pseudomonas
+aeruginosa. Bulletin of Mathematical Biology, 63(1), pp.95-116.
