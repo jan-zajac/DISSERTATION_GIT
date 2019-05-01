@@ -32,9 +32,10 @@ application of machine learning in diagnosis and treatment planning of infected 
 
 #### Dataset
 
-The datasets used in this project were user-generated through the integration of ODEs (ordinary differential equations). The project details 3 different systems.
+The datasets used in this project were user-generated through the integration of ODEs (ordinary differential equations). The project details 3 different systems:
 
-The first one is a generic linear equation: ![linearequation](https://latex.codecogs.com/gif.latex?%5Cfrac%7Bdy%7D%7Bdt%7D%3Dm)
+* The first one is a generic linear equation:
+  * ![linearequation](https://latex.codecogs.com/gif.latex?%5Cfrac%7Bdy%7D%7Bdt%7D%3Dm)
 
 <p align="center">
   <b>Some Links:</b><br>
@@ -45,7 +46,7 @@ The first one is a generic linear equation: ![linearequation](https://latex.code
 
 
 
-#### Libraries Used
+#### Libraries Used:
 
 * [SciPy](https://www.scipy.org/)
 * [Keras](https://keras.io/)
